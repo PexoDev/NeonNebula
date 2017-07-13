@@ -1,9 +1,12 @@
 # NeonNebula
 Classic, 2D, (Neon) Space-shooter!
 
-Official site: http://neonnebula.pexogamedev.pl
-Playable Web-Version: http://pexogamedev.pl/neonnebula/
-My contact mail: contact[at]pexogamedev.pl
+Official site: http://neonnebula.pexogamedev.pl 
+
+Playable Web-Version: http://pexogamedev.pl/neonnebula/ 
+
+My contact mail: contact[at]pexogamedev.pl 
+
 
 This is my very first fully finished game I've ever done. It's been made in Unity3D engine. I'm sharing all source code of it with all of you. You can feel free to use and learn from it. 
 
